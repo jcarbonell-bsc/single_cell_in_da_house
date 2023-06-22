@@ -6,5 +6,14 @@
 To achieve this noble goal, we will organise regular meetings where recent scientific developments, relevant articles in the field or simply innovative (and crazy) ideas will be shared, all presented in a friendly, informal and relaxed atmosphere to encourage scientific discussion in a collaborative mood.
 Are you dare to participate? If you are a real single-celler, this is definitely your group!
 <br/><br/>
-Rubén Chazarra & José Carbonell
+**Rubén Chazarra & José Carbonell**
 </div>
+
+<br/><br/>
+<br/><br/>https://github.com/rubenchazarra/2023-04-ScidH-Dimensionality-Reduction/
+
+
+### Sessions
+
+- [2023-05-Session 2 - Quest for Normalization](https://github.com/rubenchazarra/ScidH-2023-05-Quest-for-Normalization/)
+- [2023-04-Session 1 - Dimensionality Reduction](https://github.com/rubenchazarra/2023-04-ScidH-Dimensionality-Reduction/)
