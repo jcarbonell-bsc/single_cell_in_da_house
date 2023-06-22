@@ -10,7 +10,7 @@ Are you dare to participate? If you are a real single-celler, this is definitely
 </div>
 
 <br/><br/>
-<br/><br/>https://github.com/rubenchazarra/2023-04-ScidH-Dimensionality-Reduction/
+<br/><br/>
 
 
 ### Sessions
